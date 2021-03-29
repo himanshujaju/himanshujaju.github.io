@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Personal goals to reach by 2024
+title: Personal Goals
 permalink: /personal-goals/
 ---
+
+### Goals to reach by 2024
 
 - Run 3+ half marathons
 - Donate at least $20,000
